@@ -1,13 +1,13 @@
 # Clavius4github.io
 
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://Clavius4.github.io).
+My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://clavius4.github.io).
 
 
 
 ## Screenshots
 
 <p float="center">
-    <img src="https://github.com/Clavius4/Clavius4.github.io/blob/main/Screenshots/1.jpg" width="800">
+    <img src="https://github.com/Clavius4/clavius4.github.io/Screenshots/master/portfolio.png" width="800">
 </p>
 
 
