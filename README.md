@@ -8,5 +8,5 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 ## Screenshots
 
 <p float="center">
-    <img src="https://github.com/Clavius4/Personal-Portfolio-/blob/master/Screenshots/portfolio.png" width="800">
+    <img src="https://github.com/Clavius4/Personal-Portfolio-/blob/main/p1.png" width="800">
 </p>
